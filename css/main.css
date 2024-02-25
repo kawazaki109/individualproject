@@ -1,0 +1,49 @@
+.headText {
+	color: #fff;
+}
+.header{
+	background-color: #49688e;
+}
+header a {
+	color: #fff;
+}
+.menu{
+	display: flex;
+}
+.menu li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+}
+.menu li {
+	margin-right: 40px;
+}
+ul, li {
+	display: block;
+	padding: 0px;
+	margin: 0px;
+}
+.nav {
+	display: flex;
+	align-items: center;
+}
+.healper{
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 14px;
+	color: #ede5ce;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+section {
+	font-family: 'Roboto', sans-serif;
+}
+.section {
+	background-color: #334861;
+}
+.text p {
+	font-size: 20px;
+	color: #fff;
+	margin-top: 3px
+}
